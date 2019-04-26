@@ -1,0 +1,17 @@
+{
+  "name": "creditcheck",
+  "version": "1.0.0",
+  "description": "long running creditcheck API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kamlesh Patel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
