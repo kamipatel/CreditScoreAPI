@@ -9,7 +9,8 @@
   "author": "Kamlesh Patel",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "jsforce": "^1.9.1"
   },
   "engines": {
     "node": "10.x"
